@@ -1,0 +1,46 @@
+
+.rounded-circle{
+    padding-left: 60PX:0;
+    padding: 20PX ;
+    margin: 20PX;
+}
+.box0{
+    display: flex;
+}
+
+div.box1{
+    background-color: rgb(234, 228, 229);
+    height: 900PX;
+    width: 300PX;
+    margin: 15px;
+    box-shadow: 0PX 5PX 15PX -2PX;
+    background-color: rgba(159, 158, 133, 0.622);
+    
+}
+div.box2{
+    background-color: rgb(242, 238, 246);
+    width: 900PX;
+    height:1050PX;
+    margin: 40PX;
+    box-shadow: 0PX 5PX 15PX -2PX;
+.ph1{
+    width: 400PX;
+    height: 200PX;
+    border-radius: 10PX;
+}
+.col-md-8{
+    display: flex;
+}
+.btn{
+    width:120PX;
+    height: 30PX;
+    border-radius: 10PX;
+    margin-left: 20PX;
+}
+.bi{
+    margin: 20PX;
+}
+.pt2{
+    padding: 30PX;
+}
+
